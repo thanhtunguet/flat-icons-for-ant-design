@@ -32,13 +32,14 @@ fileList.forEach((filename: string) => {
 
   publicContent = `${publicContent}export {${iconClassName}} from './icons/${iconClassName}';\n`;
 
-  docContent += `- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/${filename}" width="20px" height="20px"/>: \`${name}\`\n`;
-
-  docContent = fs.readFileSync('README.template.md', {
-    encoding: 'utf-8',
-  })
-    .replace('%content%', docContent);
-
-  fs.writeFileSync('src/public_api.ts', publicContent);
-  fs.writeFileSync('README.md', docContent);
+  // tslint:disable-next-line:max-line-length
+  docContent += `- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/${filename}" alt="${name}" width="20px" height="20px"/>: \`${name}\`\n`;
 });
+
+docContent = fs.readFileSync('README.template.md', {
+  encoding: 'utf-8',
+})
+  .replace('%content%', docContent);
+
+fs.writeFileSync('src/public_api.ts', publicContent);
+fs.writeFileSync('README.md', docContent);
