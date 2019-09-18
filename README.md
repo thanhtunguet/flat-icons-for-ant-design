@@ -1,27 +1,49 @@
-# FlatIconsForAntDesign
+Flat Icons for Angular Ant Design
+=================================
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+## Icon List
 
-## Development server
+Flat Icons for Angular Ant Design
+=================================
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Icon List
 
-## Code scaffolding
+Flat Icons for Angular Ant Design
+=================================
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Icon List
 
-## Build
+Flat Icons for Angular Ant Design
+=================================
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Icon List
 
-## Running unit tests
+Flat Icons for Angular Ant Design
+=================================
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Icon List
 
-## Running end-to-end tests
+Flat Icons for Angular Ant Design
+=================================
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Icon List
 
-## Further help
+Flat Icons for Angular Ant Design
+=================================
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Icon List
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/add-to-queue-button.svg" width="20px" height="20px"/>: `flat_add_to_queue_button`
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/box.svg" width="20px" height="20px"/>: `flat_box`
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/budget-calculator.svg" width="20px" height="20px"/>: `flat_budget_calculator`
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/project.svg" width="20px" height="20px"/>: `flat_project`
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/teamwork.svg" width="20px" height="20px"/>: `flat_teamwork`
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/user-account-box.svg" width="20px" height="20px"/>: `flat_user_account_box`
+
+- <img src="https://flat-icons-for-ant-design.thanhtunguet.info/src/assets/icons/wallet-filled-money-tool.svg" width="20px" height="20px"/>: `flat_wallet_filled_money_tool`
+
