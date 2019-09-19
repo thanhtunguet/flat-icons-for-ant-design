@@ -1,7 +1,7 @@
 {
   "name": "flat-icons-for-ant-design",
   "description": "Flat Icons for Angular Ant Design",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "start": "ng serve",
     "build": "run-s bundle build:lib",
