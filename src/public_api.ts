@@ -2,6 +2,7 @@ export {FlatAccountTree} from './icons/FlatAccountTree';
 export {FlatAddToQueueButton} from './icons/FlatAddToQueueButton';
 export {FlatBox} from './icons/FlatBox';
 export {FlatBudgetCalculator} from './icons/FlatBudgetCalculator';
+export {FlatOrganization} from './icons/FlatOrganization';
 export {FlatProject} from './icons/FlatProject';
 export {FlatTeamwork} from './icons/FlatTeamwork';
 export {FlatUserAccountBox} from './icons/FlatUserAccountBox';
